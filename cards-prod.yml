@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message:   "Ali Jamali say welcome to application prod"
+  message:   "changes name in runtime to PRODUCTION in cards"
   contactDetails:
     name: "ali jamali"
     email: "yaser.mj23@gmail.com"
