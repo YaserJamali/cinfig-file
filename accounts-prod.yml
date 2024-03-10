@@ -5,7 +5,7 @@ accounts:
   message:   "Ali Jamali say welcome to application production"
   contactDetails:
     name: "ali jamali"
-    email: "yaser.mj23@gmail.com"
+    email: "{cipher}07424c656a4bbab445a3f7da42e19bd1abacd7a56f841795d8ab75fa6735d929c8ded14fa78289bc413c6edd8471b9bf"
   contactNumber:
     - 09123948447
     - 09220957856
