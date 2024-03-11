@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message:   "changes name in runtime to production with rabbit bbbb  accounts"
+  message:   "changes name in runtime to production with rabbit ooooooo  accounts"
   contactDetails:
     name: "ali jamali"
     email: "{cipher}07424c656a4bbab445a3f7da42e19bd1abacd7a56f841795d8ab75fa6735d929c8ded14fa78289bc413c6edd8471b9bf"
