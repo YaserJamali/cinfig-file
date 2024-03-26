@@ -1,22 +1,10 @@
-spring:
-  application:
-    name: "eurekaserver"
-
-
-  config:
-    import: "optional:configserver:http://localhost:8071/"
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-  health:
-    readiness_state:
-      enabled: true
-    liveness_state:
-      enabled: true
-  endpoint:
-    health:
-      probes:
-        enabled: true
+server:
+  port: 9000
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false
+    registerWithEureka: false
+    serviceUrl:
+      defaultZone: http:${eureka.instance.hostname}:${server.port}/eureka/
