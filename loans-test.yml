@@ -1,0 +1,11 @@
+  build:
+    version: "3.0"
+
+loans:
+  message: "Ali Jamali say welcome to application test"
+  contactDetails:
+    name: "ali jamali"
+    email: "yaser.mj23@gmail.com"
+  contactNumber:
+      - 09123948447
+      - 09220957856

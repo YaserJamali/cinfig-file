@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message:   "changes name in runtime to PRODUCTION in loans"
+  contactDetails:
+    name: "ali jamali"
+    email: "yaser.mj23@gmail.com"
+  contactNumber:
+    - 09123948447
+    - 09220957856

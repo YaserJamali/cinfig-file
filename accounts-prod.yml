@@ -1,0 +1,28 @@
+build:
+  version: "2.0"
+
+accounts:
+  message:   "changes name in runtime to production with rabbit ooooooo  accounts"
+  contactDetails:
+    name: "ali jamali"
+    email: "{cipher}07424c656a4bbab445a3f7da42e19bd1abacd7a56f841795d8ab75fa6735d929c8ded14fa78289bc413c6edd8471b9bf"
+  contactNumber:
+    - 09123948447
+    - 09220957856
+
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/bank_db
+#    username: admin
+#    password: 123456
+#    driverClassName: com.mysql.cj.jdbc.Driver
+#    h2:
+#      console:
+#        enable:true
+#  jpa:
+#    spring.jpa.database-platform: org.hibernate.dialect.MySQL8Dialect
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#server:
+#  port: 8080
