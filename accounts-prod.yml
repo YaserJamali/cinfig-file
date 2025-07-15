@@ -11,7 +11,7 @@ accounts:
     - 09220957856
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/bank_db1
+    url: jdbc:mysql://localhost:3306/bank_db
     username: admin
     password: 123456
     driverClassName: com.mysql.cj.jdbc.Driver
